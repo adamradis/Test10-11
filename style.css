@@ -4,11 +4,18 @@ header{
     padding: 19px;
     color: aliceblue;
     text-align: right;
-
+    display: flex; 
+    justify-content: right;
+    text-indent: 16px;
 }
 
 
+a{
+    color: aliceblue;
+    text-decoration: none;
 
+
+}
 
 
 .okenko{
@@ -35,6 +42,3 @@ header{
 
 }
 
-.nadpis{
-    
-}
